@@ -1,5 +1,8 @@
 # FastAPI Netflix Backend
 
+
+## Author
+``` Elijah Ekpen Mensah```
 ## Overview
 
 This FastAPI project provides a basic backend API for a Netflix-like service with support for managing users, profiles, movies, and subscriptions.
